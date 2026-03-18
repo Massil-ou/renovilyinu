@@ -19,6 +19,7 @@ class DashboardView extends StatefulWidget {
     this.initialPath,
   });
 
+
   @override
   State<DashboardView> createState() => _DashboardViewState();
 }
